@@ -78299,7 +78299,7 @@ s.X$=$.aq()
 s.Z$=0
 this.aF()},
 L(a){var s=null,r=A.bi(a,s,t.w).w,q=A.b([new A.rE(A.be("[0-9.-]",!0,!1,!1),!0,"")],t.VS),p=this.x
-p=p==null?"Loading...":"Current Version: "+p
+p=p==null?"Loading...":": "+p
 return A.jh(new A.br(B.mI,A.eB(A.b([B.Ti,B.O2,B.dr,A.cH(A.ayA(this.w,B.l,A.arV(s,s,s,B.mH,s,s,s,s,!0,new A.fM(4,A.fu(8),B.q),s,s,s,s,s,B.lY,!0,s,s,s,s,new A.fM(4,A.fu(8),B.q),s,s,s,s,s,s,s,B.yN,p,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,s,s),q,B.yG),r.a.b*0.055,s),B.dr,A.oO(!1,s,!0,A.c6(B.lM,B.r,s,new A.cg(B.bN,s,s,A.fu(8),s,s,B.a3),40,s,s,1/0),s,!0,s,s,s,s,s,s,s,s,s,this.gW0(),s,s,s,s)],t.p),B.ax,B.v),s),1)}}
 A.afY.prototype={
 $0(){var s=this.b.p7()
