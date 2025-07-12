@@ -1,6 +1,6 @@
 {
-    "name": "tampo_prod",
-    "short_name": "tampo_prod",
+    "name": "flutter_web_admin_panels",
+    "short_name": "flutter_web_admin_panels",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
